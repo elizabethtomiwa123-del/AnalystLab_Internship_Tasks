@@ -64,7 +64,7 @@ This repository contains SQL scripts and documentation completed for Week 3. The
 ## 🛠️ Tools Used
 
 * SQL Database & Client: MySQL / MySQL Workbench
-* Deliverables: SQL Script Files (.sql), Queries & Insights Documentation (.pdf)
+* Deliverables: SQL Script Files (.sql), Queries & Insights Documentation (.doc)
 
 
 ## 🔗 Deliverables & Dataset Access
