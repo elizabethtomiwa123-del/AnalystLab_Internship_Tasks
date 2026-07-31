@@ -69,7 +69,7 @@ This repository contains SQL scripts and documentation completed for Week 3. The
 
 ## 🔗 Deliverables & Dataset Access
 
-* 📁 [Access Project SQL Files & Reports in Repository](https://github.com/elizabethcomiwa123-del/AnalystLab_Internship_Tasks)
+* 📁 [Access Project SQL Files & Reports in Repository](./)
 
 
 ## 🧹 Task Breakdown & Implementation
