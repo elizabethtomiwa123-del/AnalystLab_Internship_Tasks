@@ -69,7 +69,7 @@ This repository contains SQL scripts and documentation completed for Week 3. The
 
 ## 🔗 Deliverables & Dataset Access
 
-* 📁 [Access Project SQL Files & Reports in Repository](./)
+* 📁 [Access Project SQL Files & Reports on Google Drive](https://drive.google.com/drive/folders/1WeUoVmxFaAsH1URgIzw5llo0Z2WqqRQF?usp=sharing)
 
 
 ## 🧹 Task Breakdown & Implementation
